@@ -42,7 +42,7 @@ hemang@iiitb:~$ cat interests.txt
 <br/>
 
 <!-- ====================== GITHUB SNAKE ====================== -->
-<div align="center">
+<!-- <div align="center">
 
 ### 🐍 Contribution Snake
 
@@ -65,7 +65,7 @@ hemang@iiitb:~$ cat interests.txt
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ====================== TECH ORBIT ====================== -->
 <div align="center">
