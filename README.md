@@ -1,34 +1,117 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hemang</h1>
-<h3 align="center">A Fourth year student in IIIT-B who is enthusiastic about new technologies</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Hi%20There,%20I'm%20Hemang%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%2FML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang-2004&label=Profile%20views&color=0e75b6&style=flat" alt="hemang-2004" /> </p>
+<img src="https://komarev.com/ghpvc/?username=hemang-2004&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="profile views"/>
+<a href="https://github.com/Hemang-2004?tab=followers"><img src="https://img.shields.io/github/followers/Hemang-2004?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/></a>
 
-- 🌱 I’m currently learning **React-native, nextJS**
+</div>
 
+<br/>
 
-- 👨‍💻 All of my projects are available at [Hemang-2004](https://github.com/Hemang-2004)
+<!-- ====================== TERMINAL INTRO ====================== -->
+<div align="center">
 
-- 💬 Ask me about **React, web3**
+```bash
+hemang@iiitb:~$ whoami
+```
 
-- 📫 How to reach me **hemangseth0411@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Final-Year+B.Tech+%2B+M.Tech+CS+Student+%40+IIIT-Bangalore;AI%2FML+%7C+Systems+%7C+Distributed+Infra;Ex-Summer+Analyst+%40+Morgan+Stanley;1500%2B+DSA+problems+solved+%7C+Building+cool+things" alt="Typing SVG" />
 
-- ⚡ Fun fact **I know how to read palms and predict your future**
+```bash
+hemang@iiitb:~$ cat interests.txt
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hemanx_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemanx_2004" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imt2022098" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imt2022098" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/chatgpt_master" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chatgpt_master" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/knight_striker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethically_coded" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hemangsetmp2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemangsetmp2" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=%3E+Agentic+AI+%26+ML+systems;%3E+Kafka+%2F+Spark+%2F+distributed+pipelines;%3E+Formal+verification+(Promela%2FSPIN);%3E+Competitive+programming+%26+system+design" alt="Typing SVG" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+</div>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemang-2004&show_icons=true&locale=en&layout=compact" alt="hemang-2004" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemang-2004&show_icons=true&locale=en" alt="hemang-2004" /></p>
+## 🧭 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemang-2004&" alt="hemang-2004" /></p> -->
+- 🎓 Final-year **B.Tech + M.Tech CS** student at **IIIT Bangalore** (AI/ML specialization), graduating 2027
+- 💼 Summer Analyst (Technology) @ **Morgan Stanley** — re-engineered data-acquisition & financial analysis platforms (Kafka pipelines, data governance, sensitive data masking)
+- 📄 Published Q2 research paper (Elsevier) on predicting glass transition temperature using ML
+- 🏆 Accenture Innovation Challenge winner · AMEX Machine Learning Challenge National Finalist
+- 🧩 1500+ problems solved across competitive programming platforms
+- 🔭 Currently building systems that blend **research depth with production engineering** — audio ML pipelines, RL-based compiler optimization, and LLM-based static analysis
+- 🌱 Actively exploring **agentic AI systems** and **distributed infrastructure**
+- 📫 Reach me at **hemangseth0411@gmail.com**
+- ⚡ Fun fact: I once built a wake-word detector that can tell my voice apart from a room full of people yelling at once
+
+<br/>
+
+<!-- ====================== GITHUB SNAKE ====================== -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*(See setup note below — you need to add one GitHub Actions workflow to generate this file automatically)*
+
+</div>
+
+<br/>
+
+<!-- ====================== STATS ====================== -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hemang-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang-2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang-2004&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+</div>
+
+<br/>
+
+<!-- ====================== TROPHIES ====================== -->
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hemang-2004&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ====================== TECH STACK ====================== -->
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nextjs,nodejs,django,express,flask,spring,mongodb,mysql,sqlite,git,linux,bash,figma,tensorflow,sklearn,pandas&perline=11" alt="skill icons"/>
+
+<br/><br/>
+
+**Distributed Systems & Infra:** ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ====================== CONNECT ====================== -->
+<div align="center">
+
+### 🔗 Connect with Me
+
+<a href="https://instagram.com/hemanx_2004" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/imt2022098" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/chatgpt_master" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.leetcode.com/knight_striker" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://auth.geeksforgeeks.org/user/hemangsetmp2" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
