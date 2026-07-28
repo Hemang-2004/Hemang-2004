@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Hi%20There,%20I'm%20Hemang%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%2FML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Hemang-2004.Hemang-2004&left_color=grey&right_color=%236a11cb" alt="profile views"/>
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Hemang-2004.Hemang-2004&left_color=grey&right_color=%236a11cb" alt="profile views"/> -->
 <a href="https://github.com/Hemang-2004?tab=followers"><img src="https://img.shields.io/github/followers/Hemang-2004?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/></a>
 
 </div>
