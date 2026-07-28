@@ -38,7 +38,6 @@ hemang@iiitb:~$ cat interests.txt
 - 🔭 Currently building systems that blend **research depth with production engineering** — audio ML pipelines, RL-based compiler optimization, and LLM-based static analysis
 - 🌱 Actively exploring **agentic AI systems** and **distributed infrastructure**
 - 📫 Reach me at **hemangseth0411@gmail.com**
-- ⚡ Fun fact: I once built a wake-word detector that can tell my voice apart from a room full of people yelling at once
 
 <br/>
 
@@ -48,12 +47,10 @@ hemang@iiitb:~$ cat interests.txt
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/main/dist/github-contribution-grid-snake.svg" />
 </picture>
-
-*(See setup note below — you need to add one GitHub Actions workflow to generate this file automatically)*
 
 </div>
 
@@ -64,8 +61,8 @@ hemang@iiitb:~$ cat interests.txt
 
 ### 📊 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hemang-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang-2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hemang-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang-2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang-2004&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
@@ -84,16 +81,12 @@ hemang@iiitb:~$ cat interests.txt
 
 <br/>
 
-<!-- ====================== TECH STACK ====================== -->
+<!-- ====================== TECH ORBIT ====================== -->
 <div align="center">
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nextjs,nodejs,django,express,flask,spring,mongodb,mysql,sqlite,git,linux,bash,figma,tensorflow,sklearn,pandas&perline=11" alt="skill icons"/>
-
-<br/><br/>
-
-**Distributed Systems & Infra:** ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<img src="https://raw.githubusercontent.com/Hemang-2004/Hemang-2004/main/tech-orbit.svg" width="420" alt="orbiting tech stack"/>
 
 </div>
 
@@ -105,10 +98,8 @@ hemang@iiitb:~$ cat interests.txt
 ### 🔗 Connect with Me
 
 <a href="https://instagram.com/hemanx_2004" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/imt2022098" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/chatgpt_master" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.leetcode.com/knight_striker" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://auth.geeksforgeeks.org/user/hemangsetmp2" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
 </div>
 
