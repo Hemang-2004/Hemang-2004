@@ -70,17 +70,6 @@ hemang@iiitb:~$ cat interests.txt
 
 <br/>
 
-<!-- ====================== TROPHIES ====================== -->
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hemang-2004&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-
-</div>
-
-<br/>
-
 <!-- ====================== TECH ORBIT ====================== -->
 <div align="center">
 
