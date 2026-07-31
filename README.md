@@ -59,9 +59,9 @@ hemang@iiitb:~$ cat interests.txt
 <!-- ====================== STREAK ====================== -->
 <div align="center">
 
-### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com/?user=Hemang-2004&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+<!-- <img src="https://streak-stats.demolab.com/?user=Hemang-2004&theme=tokyonight&hide_border=true" alt="streak stats"/> -->
 
 </div>
 
